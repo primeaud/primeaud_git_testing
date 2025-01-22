@@ -20,3 +20,10 @@ Email: cienkusj@msu.edu
 - Year: 4th/Senior
 - Hometown: Macomb, MI
 - Programming background: CMSE 201, PSL 207
+
+## Katrina Spears
+- Email: spearsk3@msu.edu
+- Major: Physics
+- Year: Junior
+- Hometown: Bloomfield Hills MI
+- Programming background: CMSE 201, PHY 415
